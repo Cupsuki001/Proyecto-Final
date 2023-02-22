@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JADPA-19\\.nuget\\packages\\": {}
+    "C:\\Users\\Estudiantes\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SOURCES\\Introduccion.NET\\Introduccion.NET\\Proyecto\\Proyecto\\Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Estudiantes\\Downloads\\Proyecto-Final-main\\Proyecto\\Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "E:\\SOURCES\\Introduccion.NET\\Introduccion.NET\\Proyecto\\Proyecto\\Proyecto.csproj",
-      "packagesPath": "C:\\Users\\JADPA-19\\.nuget\\packages\\",
-      "outputPath": "E:\\SOURCES\\Introduccion.NET\\Introduccion.NET\\Proyecto\\Proyecto\\obj\\",
+      "projectPath": "C:\\Users\\Estudiantes\\Downloads\\Proyecto-Final-main\\Proyecto\\Proyecto.csproj",
+      "packagesPath": "C:\\Users\\Estudiantes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Estudiantes\\Downloads\\Proyecto-Final-main\\Proyecto\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\JADPA-19\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Estudiantes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
